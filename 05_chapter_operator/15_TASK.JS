@@ -1,0 +1,12 @@
+let a=100;
+console.log(a++ + ++a + a++ + ++a);
+console.log(a);
+let x=37;
+console.log(--x + x--);
+console.log(x);
+let y=5;
+let h=y-- - --y;
+console.log(h,y);
+let i=1;
+let r=i++>1? i++ :++i;
+console.log(r,i);

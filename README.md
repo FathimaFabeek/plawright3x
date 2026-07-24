@@ -1,35 +1,35 @@
-# Learning Playwright 3x
+# JavaScript Fundamentals — Learning & Practice
 
-This repository contains JavaScript learning notes and practice files for core programming concepts, operators, identifiers, and basic examples.
+This repository contains **JavaScript language fundamentals** — variables, data types, operators, control flow, switch statements, user input methods, identifier rules, and interview question notes. *(Despite the repo name, this is not Playwright test automation code.)*
 
 ## Contents
 
-- JavaScript basics
-- Literals and data types
-- Operators and comparisons
-- Statements (conditionals, grading system)
-- Switch statements and grouping
-- User input methods (stdin, prompt, readline, fs)
-- Identifier rules and IQ notes
-- Practice files for learning and revision
+- JavaScript basics and `let` concepts
+- Literals and data types (number, string, boolean, null, undefined, BigInt)
+- Operators (arithmetic, assignment, comparison, logical, ternary, nullish coalescing, increment/decrement)
+- Conditional statements (if-else, grading systems)
+- Switch statements (break, fall-through, grouping, strict comparison)
+- User input methods (stdin, readline, prompt-sync, fs)
+- Identifier rules and naming conventions
+- Interview question notes and reference material
 
 ## Structure
 
 | Directory | Description |
 |---|---|
-| `chapter_01_Basics/` | JavaScript fundamentals |
-| `chapter_02_JS_concepts/` | Core JS concepts |
-| `chapter_03_identifier/` | Identifier rules and notes |
-| `04_chapter_Literal/` | Literals and data types |
-| `05_chapter_operator/` | Operators and comparisons |
-| `06_CHAPTER_STATEMENT/` | Conditional statements, grading system |
-| `07_chapter_switch/` | Switch statement examples and grouping |
-| `08_chapter_UserInputs/` | User input via stdin, prompt, readline, fs |
-| `IQ_Notes/` | Interview question notes |
+| `chapter_01_Basics/` | JavaScript fundamentals — Hello World, `let` and loops |
+| `chapter_02_JS_concepts/` | *(empty / placeholder)* |
+| `chapter_03_identifier/` | Identifier rules, naming conventions (camelCase, PascalCase, etc.) |
+| `04_chapter_Literal/` | Literals, null vs undefined, numeric separators, Infinity/NaN, BigInt |
+| `05_chapter_operator/` | Operators — 17 files covering arithmetic through nullish coalescing |
+| `06_CHAPTER_STATEMENT/` | Conditional statements, grading systems, number-to-word switch |
+| `07_chapter_switch/` | Switch statement examples — fall-through, grouping, strict comparison |
+| `08_chapter_UserInputs/` | User input via stdin, readline, prompt-sync, and fs |
+| `IQ_Notes/` | Interview question notes — identifier rules, keyword reference, VS Code shortcuts, source code pipeline |
 
-## Purpose
+## Topic Progression
 
-This workspace is intended for learning and practicing JavaScript fundamentals in a simple, organized way.
+Basics → Identifiers → Literals → Operators → Statements → Switch → User Inputs → Reference Notes
 
 ## Notes on running input examples
 
